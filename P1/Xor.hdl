@@ -1,4 +1,4 @@
-/**
+/** 
  * Exclusive-or gate:
  * out = not (a == b)
  */
