@@ -7,7 +7,7 @@
 CHIP Or {
     IN a, b;
     OUT out;
-
+ 
     PARTS:
     Not (in=a, out=x);
     Not (in=b, out=y);
